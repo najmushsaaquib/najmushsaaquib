@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
  
-- 💬 Ask me about **JavaScript MEARN**
+- 💬 Ask me about **JavaScript**
 
 - 📫 I will be at **saaquibnajmush@gmail.com**
 
@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=najmushsaaquib&show_icons=true&locale=en&theme=tokyonight" alt="najmushsaaquib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmushsaaquib&&theme=tokyonight" alt="najmushsaaquib" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=najmushsaaquib&&theme=tokyonight" alt="najmushsaaquib" /></p>
