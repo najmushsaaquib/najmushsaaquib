@@ -16,7 +16,7 @@
 
 - 📫 I will be at **saaquibnajmush@gmail.com**
 
-- ⚡ Fun fact -**I am alwasy HAPPY 😁**
+- ⚡ Fun fact -**I am always HAPPY 😁**
 
 <h3 align="left">Lets talk:</h3>
 <p align="left">
