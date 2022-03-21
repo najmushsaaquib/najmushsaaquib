@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/najmushsaaquib" target="blank"><img src="https://img.shields.io/twitter/follow/najmushsaaquib?logo=twitter&style=for-the-badge" alt="najmushsaaquib" /></a> </p>
 
-- 🔭 I’m currently pursuing **Full-Stack Development**
+- 🔭 I’m currently pursuing **Full-Stack Web Development**
 
 - 🌱 I’m currently learning **MERN stack**
  
