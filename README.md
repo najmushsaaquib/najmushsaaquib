@@ -1,5 +1,10 @@
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://najmushsaaquib.io) -->
-![Najmush Saaquib](https://user-images.githubusercontent.com/99200169/161571672-92cdd960-e3ce-4da6-ade2-51c9381892de.gif)
+
+![gitHub](https://user-images.githubusercontent.com/99200169/161836527-4bfb3f0e-f07f-461c-b83c-0490e7198f0c.gif)
+
+
+
+
 <h1 align="center">Hello World 👋, I'm Najmush</h1>
 <h3 align="center">A passionate developer, exploring the multiverse of 1's & 0's</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
