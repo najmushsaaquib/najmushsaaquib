@@ -13,15 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/najmushsaaquib" target="blank"><img src="https://img.shields.io/twitter/follow/najmushsaaquib?logo=twitter&style=for-the-badge" alt="najmushsaaquib" /></a> </p>
 
-- 🔭 I’m currently pursuing **Full-Stack Web Development**
+- 🔭 I’m currently pursuing **JAVA Back-End**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Spring Boot**
  
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JAVA/JavaScript**
 
 - 📫 I will be at **saaquibnajmush@gmail.com**
 
-- ⚡ Fun fact -**I am always HAPPY 😁**
+- ⚡ Fun fact - **I am always HAPPY 😁**
 
 <h3 align="left">Lets talk:</h3>
 <p align="left">
