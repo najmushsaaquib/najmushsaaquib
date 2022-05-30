@@ -7,7 +7,7 @@
 
 <h1 align="center">Hello World 👋, I'm Najmush</h1>
 <h3 align="center">A passionate developer, exploring the multiverse of 1's & 0's</h3>
-<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmushsaaquib&label=Visitors&color=0e75b6&style=flat" alt="najmushsaaquib" /> </p>
 
