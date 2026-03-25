@@ -17,11 +17,11 @@
  
 - 💬 Ask me about **Spring, Java, Hibernate, JavaScript.**
 
-- 📫 You will find me at **saaquibnajmush@gmail.com**
+- 📫 You will find me at **mail@najmushsaaquib.com**
 
-- 📝 I wrote some Blogs as well. See [here](https://bit.ly/3bDpAJM)
+- 📝 I wrote some Blogs as well. See [here](https://najmushsaaquib.com/blog)
 
-- 🗺️ Want to know more? Check out my portfolio [here](https://najmushsaaquib.github.io/) 🌐
+- 🗺️ Want to know more? Check out my portfolio [here](https://najmushsaaquib.com/) 🌐
 
 - ⚡ Fun fact - **I am always HAPPY 😁**
 
@@ -42,7 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najmushsaaquib&show_icons=true&locale=en&theme=tokyonight" alt="najmushsaaquib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmushsaaquib&&theme=tokyonight" alt="najmushsaaquib" /></p>
-
-![snake gif](https://github.com/najmushsaaquib/najmushsaaquib/blob/output/github-contribution-grid-snake.gif)
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=najmushsaaquib&&theme=xcode)](https://github.com/najmushsaaquib)
