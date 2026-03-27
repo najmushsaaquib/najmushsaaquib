@@ -37,6 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najmushsaaquib&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="najmushsaaquib" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=najmushsaaquib&show_icons=true&locale=en&theme=tokyonight" alt="najmushsaaquib" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najmushsaaquib&&theme=tokyonight" alt="najmushsaaquib" /></p>
