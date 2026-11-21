@@ -29,7 +29,7 @@ software for the communities big platforms overlook.
 <table>
   <tr>
     <td width="64" align="center"><img src="img/mihrabummah.png" width="44" height="44" alt=""></td>
-    <td><b><a href="https://mihrabummah.com">MihrabUmmah</a></b>: Madrasa graduates listed by credential and city across India, so a masjid or a family can find an Imam or a Quran teacher nearby. Live since 2025.</td>
+    <td><b><a href="https://mihrabummah.com">MihrabUmmah</a></b>: Madrasa graduates listed by credential and city across India, so a masjid or a family can find an Imam or a Quran teacher nearby. Live across India.</td>
   </tr>
   <tr>
     <td align="center"><img src="img/d-tox.png" width="44" height="44" alt=""></td>
