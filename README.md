@@ -11,18 +11,27 @@
 </p>
 
 Hi, I'm Najmush. I'm a backend engineer with almost four years of Java microservices and
-event-driven systems behind me. These days I work on **platform and infrastructure at Capillary
-Technologies**: AWS, service performance, and keeping distributed systems reliable.
+event-driven systems behind me. I'm a **Software Development Engineer II at Capillary
+Technologies**, working on platform and infrastructure: AWS, service performance, and keeping
+distributed systems reliable.
 
 After hours I run **[Saaquib Labs](https://saaquiblabs.com)**, a small studio where I build careful
-software for the communities big platforms overlook.
+software for the communities big platforms overlook. I'm also studying for a B.Sc in Data Science
+and Applications at **IIT Madras**.
 
 ## 🛠️ At work
 
-- **Real-time APIs behind the NoBroker homepage**, Redis-backed, for 100K+ daily users. Lower latency, and view-to-click doubled.
-- **Kafka pipelines** for real-time data ingestion that cut API response times by 60%.
-- **A B2B subscription system, end to end**: billing, scheduling and automatic partner allocation. ₹48L+ in new revenue.
-- **Now, at Capillary:** I own a critical platform service that only one architect used to know, and I work on AWS infrastructure and reliability.
+**Now · Capillary Technologies** <sub>(Jan 2026 – present)</sub>
+
+- **Took ownership of FT Extensions**, a critical platform service that only one architect knew. I mapped it end to end and proposed an automated test suite for reliability and observability.
+- **Moved to Platform and Infra** to fill a gap: AWS infrastructure, service performance, distributed-system reliability.
+
+**Before · NoBroker Technologies** <sub>(Jul 2022 – Jan 2026)</sub>
+
+- **Built a B2B subscription system end to end**: billing, scheduling and partner allocation. ₹48L+ in new revenue.
+- **Designed Redis-backed real-time APIs** for homepage traffic of 100K+ daily users. Lower latency, and view-to-click doubled.
+- **Built event-driven Kafka pipelines** for real-time data ingestion that cut API response times by 60%.
+- **Led the "My Bookings" revamp**, bringing bookings, cancellations, rescheduling, refunds and subscriptions into one system.
 
 ## 🌱 Built after hours
 
@@ -53,7 +62,7 @@ software for the communities big platforms overlook.
 ## 🧰 Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,mongodb,elasticsearch,docker,kubernetes,aws,ts,nodejs&perline=12" height="40" alt="Java, Spring, Kafka, Redis, MySQL, MongoDB, Elasticsearch, Docker, Kubernetes, AWS, TypeScript, Node.js">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,mongodb,elasticsearch,docker,jenkins,maven,aws,ts&perline=12" height="40" alt="Java, Spring, Kafka, Redis, MySQL, MongoDB, Elasticsearch, Docker, Jenkins, Maven, AWS, TypeScript">
 </p>
 
 > I like systems that are simple, observable, and hard to break.
