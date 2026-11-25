@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://najmushsaaquib.com"><img src="img/banner.png" alt="Najmush Saaquib, backend engineer in Bengaluru. Systems that hold up at work, small useful tools after hours. Shipped at Saaquib Labs: MihrabUmmah, D-Tox, Lost Buttons."></a>
+  <a href="https://najmushsaaquib.com"><img src="img/banner.png" alt="Najmush Saaquib, backend engineer in Bengaluru. Systems that hold up at work, small useful tools after hours. Shipped at Saaquib Labs: MihrabUmmah, D-Tox, Lost Buttons, Curtain."></a>
 </p>
 
 <p align="center">
@@ -49,8 +49,8 @@ and Applications at **IIT Madras**.
     <td><b><a href="https://github.com/saaquiblabs/lost-buttons">Lost Buttons</a></b>: makes a mouse's Back and Forward side buttons work on the Mac. <code>brew install saaquiblabs/tap/lost-buttons</code></td>
   </tr>
   <tr>
-    <td align="center">🌘</td>
-    <td><b><a href="https://github.com/saaquiblabs/curtain">Curtain</a></b>: brightness for every screen, and a switch to turn any of them off. Early days.</td>
+    <td align="center"><img src="img/curtain.png" width="44" height="44" alt=""></td>
+    <td><b><a href="https://github.com/saaquiblabs/curtain">Curtain</a></b>: brightness for every screen, and a switch to turn any of them off. <code>brew install saaquiblabs/tap/curtain</code></td>
   </tr>
 </table>
 
