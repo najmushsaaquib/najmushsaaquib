@@ -21,7 +21,7 @@ const FONT = path.join(portfolio, 'scripts/fonts/EBGaramond.ttf');
 const b64 = (f) => readFileSync(path.join(root, 'img', f)).toString('base64');
 
 // Things shipped, shown as a quiet row of icons on the right.
-const icons = ['mihrabummah.png', 'd-tox.png', 'lost-buttons.png'];
+const icons = ['mihrabummah.png', 'd-tox.png', 'lost-buttons.png', 'curtain.png'];
 const IC = 92;
 const GAP = 26;
 const rowW = icons.length * IC + (icons.length - 1) * GAP;
