@@ -8,6 +8,7 @@
 // next to it (it has the fonts and packages), or pointed to with PORTFOLIO=<path>:
 //   bun scripts/banner.mjs
 import { createRequire } from 'node:module';
+import { execFileSync } from 'node:child_process';
 import { writeFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -102,5 +103,12 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
 </svg>`;
 
 const png = new Resvg(svg, { font: { fontFiles: fonts, loadSystemFonts: false } }).render().asPng();
-writeFileSync(path.join(root, 'img/banner.png'), png);
+const out = path.join(root, 'img/banner.png');
+writeFileSync(out, png);
+// Down to 256 colours, undithered: same look at under half the bytes, so GitHub shows it sooner.
+// sharp hangs under Bun, so it runs in Node.
+const shrink = `require(${JSON.stringify(require.resolve('sharp'))})(${JSON.stringify(out)}).removeAlpha()
+  .png({ palette: true, quality: 100, colours: 256, dither: 0, effort: 10 }).toBuffer()
+  .then((b) => require('fs').writeFileSync(${JSON.stringify(out)}, b))`;
+execFileSync('node', ['-e', shrink]);
 console.log('wrote img/banner.png');
